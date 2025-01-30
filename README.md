@@ -1,2 +1,2 @@
-# Rust-Examples
-Test programs for basic rust
+# Rust Examples
+Basic test programs for rust
